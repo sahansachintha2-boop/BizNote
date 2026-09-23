@@ -1,0 +1,2 @@
+# BizNote
+Manage Business easyly 
